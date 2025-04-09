@@ -1,5 +1,5 @@
 # Final-Project
-Final Data Analytics Project (Python (Pandas, NumPy Matplotlib, Seaborn))
+Data Analytics Project (Python (Pandas, NumPy Matplotlib, Seaborn))
 
 ## Data Cleaning & Preparation
 - Loaded cleaned datasets: Contacts, Calls, Deals, Spend
